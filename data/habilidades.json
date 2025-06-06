@@ -1,0 +1,29 @@
+{
+    "habilidades": [
+      {
+        "id": 1,
+        "titulo": "Discotecagem Profissional",
+        "descricao": "Habilidade em mixagens ao vivo, domínio de equipamentos de DJ e leitura de pista para animar diferentes públicos e eventos."
+      },
+      {
+        "id": 2,
+        "titulo": "Produção Musical",
+        "descricao": "Criação de batidas, remixes e faixas originais utilizando softwares como FL Studio e Ableton Live."
+      },
+      {
+        "id": 3,
+        "titulo": "Presença de Palco",
+        "descricao": "Performance energética e envolvente com o público, criando experiências memoráveis durante os shows."
+      },
+      {
+        "id": 4,
+        "titulo": "Marketing nas Redes Sociais",
+        "descricao": "Divulgação de músicas, eventos e bastidores através de plataformas como Instagram, YouTube e TikTok, aumentando o alcance da marca pessoal."
+      },
+      {
+        "id": 5,
+        "titulo": "Colaborações Artísticas",
+        "descricao": "Parcerias com outros artistas e DJs em projetos musicais e apresentações conjuntas, promovendo integração e inovação no cenário musical."
+      }
+    ]
+}
